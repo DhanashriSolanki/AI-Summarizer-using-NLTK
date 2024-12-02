@@ -1,4 +1,7 @@
 flask
 nltk
 networkx
-sckit
+scikit-learn
+re
+os
+numpy
