@@ -1,7 +1,0 @@
-flask
-nltk
-networkx
-scikit-learn
-re
-os
-numpy
